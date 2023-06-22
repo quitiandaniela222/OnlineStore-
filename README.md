@@ -1,70 +1,53 @@
-# Getting Started with Create React App
+<h1 align="center"> Clothing Store Project </h1>
+<br>
+Project Description: <br> <br>
+This project is an eCommerce of a clothing store that uses the FakeStore API to obtain product information. The main goal is to create an online platform where users can browse and purchase a variety of clothing products.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The eCommerce is developed using technologies like React, HTML, CSS and JavaScript. The design is based on a clean and minimalist style, with a responsive interface that adapts to different devices and screen sizes.
 
-## Available Scripts
+The FakeStore API provides data on products from different categories such as men's clothing, women's clothing, jewelry, electronics, etc. Users will be able to view the products, add them to the shopping cart, make payments and complete the checkout process.. <br>
 
-In the project directory, you can run:
+Thank you for visiting!
 
-### `npm start`
+## :hammer: Key features of the project
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- ` Search and filter functionalities:`: Users will be able to search for specific products by category, brand, size, color, price, etc. In addition, they will be able to use advanced filters to refine their search and find exactly what they are looking for.
+- ` Modern and attractive design:`: "COSSO" eCommerce has a contemporary and attractive design that reflects the latest fashion trends. Users will enjoy a visually pleasing experience while browsing the hot products.
+- ` Responsive Design:`:is designed to be fully responsive, which means it adapts and looks good on different devices, including desktop computers, tablets, and mobile phones. <br>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 📁 Project Access
 
-### `npm test`
+**Creating and operating this clothing store project in your local development environment is very easy. Make sure you have Git and Node.js installed and follow the instructions below**<br>
+- `Clone the source code`
+git clone https://github.com/quitiandaniela222/OnlineStore-.git
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- `Install development dependencies`
+Note: Check the package.json engine for our tested and supported node versions.
+npm install 
 
-### `npm run build`
+- `Run a local development server`
+npm start 
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Used Technology
+- `HTML`
+- `CSS`
+- `JAVASCRIPT`
+- `REACT.JS`
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Contribution
+<h4> Contributions are welcome! If you would like to contribute to this project, follow these steps: </h4> <br>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- Create a fork of this repository.
+- Create a new branch for your feature: git checkout -b new-feature
+- Make the necessary changes and commit them: git commit -m "Add new feature"
+- Push the branch: git push origin new-feature
+- Create a pull request in this repository.
+- We look forward to your valuable contributions to improve this project.
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Author
+|        |              |
+|--------|--------------|
+| <img src="https://avatars.githubusercontent.com/u/124717657?v=4" width=115><br> |
+| Daniela Quitian |
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
